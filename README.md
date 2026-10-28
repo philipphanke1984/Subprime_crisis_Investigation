@@ -52,15 +52,19 @@ Examines GDP growth in relation to government debt, inflation and unemployment.
 Metric
 Crisis 2007–2010
 Recovery 2010–2015
+
 Pearson Correlation
 -0.3775
 +0.2381
+
 OLS Coefficient
 -0.1764
 +0.1985
+
 p-value
 0.101
 0.312
+
 R²
 0.142
 0.057
