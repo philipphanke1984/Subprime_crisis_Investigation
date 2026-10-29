@@ -48,27 +48,6 @@ Estimates the statistical association between changes in government debt and GDP
 Multiple Regression
 Examines GDP growth in relation to government debt, inflation and unemployment.
 
-6. Key Findings
-Metric
-Crisis 2007–2010
-Recovery 2010–2015
-
-Pearson Correlation
--0.3775
-+0.2381
-
-OLS Coefficient
--0.1764
-+0.1985
-
-p-value
-0.101
-0.312
-
-R²
-0.142
-0.057
-
 The analysis identifies a moderate negative correlation during the financial crisis and a weak positive correlation during the recovery period.
 However, neither simple OLS regression coefficient is statistically significant at the 5% significance level.
 The null hypothesis cannot be rejected.
