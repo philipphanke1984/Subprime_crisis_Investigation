@@ -1,0 +1,19 @@
+Pearson-coefficient(r): 
+Subprime-crisis 2007 - 2010 -> -0.3775
+Recovery 2010 - 2015        -> +0.2381     
+
+OLS-Regression:
+Subprime-crisis 2007 - 2010 -> -0.1764
+Recovery 2010 - 2015        -> +0.1985
+
+p-Value:
+Subprime-crisis 2007 - 2010 -> +0.101
+Recovery 2010 - 2015        -> +0.312
+
+R²:
+Subprime-crisis 2007 - 2010 -> +0.142
+Recovery 2010 - 2015        -> +0.057
+
+
+
+
